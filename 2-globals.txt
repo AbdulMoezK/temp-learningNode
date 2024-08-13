@@ -1,0 +1,10 @@
+There are global variables in node that can be accessed in any
+part of the document:
+
+__dirname - name of directory
+__filename - name of file
+require -
+module - 
+process -
+
+You can log all of these
